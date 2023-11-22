@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "react-demo",
+			"path": "code/react-demo"
+		}
+	],
+	"settings": {}
+}
